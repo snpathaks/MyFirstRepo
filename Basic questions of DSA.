@@ -5,7 +5,13 @@ Theroy questions:
 Q1. what is an Array ?
 Ans: An array is a linear data structure that stores multiple elements of the same data type in contiguous memory locations.
 Q2. What is the time complexity and space complexity of an array?
-Ans: For Traversal :
+Ans: For accessing an element (by index):
+     Time Complexity: O(1)        Space Complexity: O(1)
+     For searching(unsorted array by linear search):
+     Time complexity: O(n)        Space Complexity: O(1)
+     For searching(sorted array by binary search):
+     Time complexity: O(logn)     Space Complexity: O(1)
+     For Traversal :
      Time complexity: O(n)        Space complexity: O(1)
      For Insertion at the end:
      Time complexity: O(1)        Space complexity: O(1)
