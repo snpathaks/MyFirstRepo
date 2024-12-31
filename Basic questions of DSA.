@@ -21,7 +21,8 @@ Ans: For accessing an element (by index):
      Time complexity: O(n)        Space complexity: O(1)
 
 ### Coding Questions:
-Q1.Inserting and traversal of an array using c++:
+Q1.traversal of an array using c++:
+Q2.
 
 
      
