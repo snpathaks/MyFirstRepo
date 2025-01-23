@@ -2,7 +2,8 @@ Start of My Basic Projects.
 Author : Shalini Pathak.
 Intro : basic projects for beginner.
 ## PROJECT_1:
-![image](https://github.com/user-attachments/assets/497daae3-11af-4a5b-af06-b7a07fa212a2)
+
+https://www.imagine.art/dashboard/image/tool/canvas/editor?image=blob%3Ahttps%3A%2F%2Fwww.imagine.art%2Fafbaf886-a78b-4bc7-908e-b2693a046472
 
 
 Calculator: using c++ language
