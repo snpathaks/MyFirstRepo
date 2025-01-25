@@ -2,5 +2,5 @@
 <h4>1.ARRAY</h4>
         Arr[5] = {😉😊😗😏😮};    //Same datatype #emoji
 <h4>2.Linked List.</h4>
-    int data;               // ➡️✉️➡️✉️➡️✉️➡️✉️➡️NULL 
-    int* node;
+    int data; <br>              // ➡️✉️➡️✉️➡️✉️➡️✉️➡️NULL <br>
+    int* node;<br>
