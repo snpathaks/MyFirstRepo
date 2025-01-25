@@ -1,6 +1,4 @@
-Start of My Basic Projects.
-Author : Shalini Pathak.
-Intro : basic projects for beginner.
-## PROJECT_1: Calculator: using c++ language
-![image](https://github.com/user-attachments/assets/ddb400e1-7037-4214-8074-bf212c7ed266)
+<h1>DSA Basics::::::</h1>
+<h4>1.ARRAY</h4>
+        Arr[5] = {😉😊😗😏😮};    //Same datatype #emoji
 
