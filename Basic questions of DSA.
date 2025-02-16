@@ -2,7 +2,7 @@ Basic DSA topics and most common questions.
 Author: Shalini .
 _ARRAY_:-
 Theroy questions:
-Q1. what is an Array ?
+Q1 what is an Array ?
 Ans: An array is a linear data structure that stores multiple elements of the same data type in contiguous memory locations.
 Q2. What is the time complexity and space complexity of an array?
 Ans: For accessing an element (by index):
