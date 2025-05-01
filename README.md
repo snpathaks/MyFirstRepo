@@ -5,6 +5,7 @@ Data Structure (DSA).<br>
 2. Linked List : Nodes pointing to next Node.<br>
 3. Stack : Last in First Out(LIFO).<br>
 4. Queue : First in First Out(FIFO).<br>
+5. Tree : <br>
 
 
 
