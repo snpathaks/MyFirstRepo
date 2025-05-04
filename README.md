@@ -6,6 +6,7 @@ Data Structure (DSA).<br>
 3. Stack : Last in First Out(LIFO).<br>
 4. Queue : First in First Out(FIFO).<br>
 5. Tree : <br>
+6. Graph : <br>
 
 
 
