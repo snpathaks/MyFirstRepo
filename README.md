@@ -7,6 +7,7 @@ Data Structure (DSA).<br>
 4. Queue : First in First Out(FIFO).<br>
 5. Tree : <br>
 6. Graph : <br>
+7. Hash table
 
 
 
