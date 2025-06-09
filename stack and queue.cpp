@@ -203,7 +203,7 @@ int main () {
 } */
 
 //Delete middle element from stack::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
+/*
 #include <iostream>
 #include <stack>
 using namespace std;
@@ -269,7 +269,7 @@ int main() {
     cout << endl;
 
     return 0;
-} 
+} */
 
 // valid parenthesis::::::::::::::::::::::::::::::::::::::::::
 
