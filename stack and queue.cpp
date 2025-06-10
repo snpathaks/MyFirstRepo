@@ -420,6 +420,8 @@ int main() {
     return 0;
 }*/
 
+//Insert the element in the middle of stack:
+
 
 
 
