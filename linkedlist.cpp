@@ -1,4 +1,4 @@
-//
+//LINKED LIST
 //
 //// implement new head:::::::::::::::::::;
 ///*
